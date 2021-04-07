@@ -1,0 +1,4 @@
+games.tiscali.cz##.adtext
+games.tiscali.cz##.lokapucobe
+games.tiscali.cz###squarePopup
+games.tiscali.cz##body>ins~div
