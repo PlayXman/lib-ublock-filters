@@ -4,5 +4,8 @@ games.tiscali.cz###squarePopup
 games.tiscali.cz##body>ins~div
 games.tiscali.cz##.mobile-leader-top
 games.tiscali.cz###px_creative_w
-games.tiscali.cz##*[data-cy="ad-content"]
+games.tiscali.cz##[data-cy="ad-content"]
 games.tiscali.cz###gad_bellow_article
+
+toonily.com##body+iframe
+||coccyxwickimp.com^$all
