@@ -1,3 +1,7 @@
+[Adblock Plus 3.1]
+! Title: PlayXman's filters
+! Homepage: https://github.com/PlayXman/lib-ublock-filters/
+
 games.tiscali.cz##.adtext
 games.tiscali.cz##.lokapucobe
 games.tiscali.cz###squarePopup
