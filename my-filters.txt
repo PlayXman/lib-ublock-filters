@@ -22,3 +22,4 @@ toonily.com##body+iframe
 svetserialu.to###native_ads
 ||hgzuqrtzt.com
 svetserialu.to##.fakeplayb1
+*$popup,domain=svetserialu.to,third-party
