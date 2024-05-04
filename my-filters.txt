@@ -11,6 +11,8 @@ games.tiscali.cz###px_creative_w
 games.tiscali.cz###gad_bellow_article
 ||gms.cdn.dopc.cz$domain=games.tiscali.cz
 games.tiscali.cz###article-videoAd-wrapper
+games.tiscali.cz##.article-footer>a.d-block.media-image
+games.tiscali.cz###zone-mobile-leader-top
 
 ! Toonily.com
 toonily.com##body+iframe
